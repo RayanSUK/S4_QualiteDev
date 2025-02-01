@@ -1,3 +1,7 @@
+/**
+ * La classe Main permet de tester le programme
+ * Elle permet de tester la création et l'inscription des voiliers.
+ */
 public class Main {
     public static void main(String[] args) {
         /*
